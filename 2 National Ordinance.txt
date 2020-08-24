@@ -1,0 +1,138 @@
+# Chapter 2: National Ordinance
+
+***
+
+In this chapter, we will discuss the challenges of planning at the national scale, show how previous national ordinances have assisted with that endeavor, and propose a new national ordinance based on those lessons.
+
+## What is a National Ordinance?
+Our opening discussion on permanence, dimensions, and design addressed some of the themes and qualities of planning to be considered throughout this study. 
+
+In the scales of human development, the largest scale tends to have the largest impact. A nation's constitution, e.g., affects everyone, while a local ordinance is limited in scope. It is the built-in tenacity at the largest scales that make their influence worthy of the most intense study (it is much more difficult and the stakes much hire to amend a national constitution than it is a small town's municipal code). So with that, we begin at the scale of the country with a *National Ordinance*.
+
+A National Ordinance is a guiding document for the distribution of lands across an entire country. Needless to say, it is comprehensive by necessity. It comprises methodologies, maps, principles, and policies for subdividing vast territories. While it is prescriptive in its methods, it can materialize incrementally and flexibly. It is broad brush strokes on a canvas; it allows finer details to be applied later. From a design perspective, it is a document that breaks down vast dimensions into manageable and workable units.
+
+The *Land Ordinance of 1785* in the United States is one of history's finest examples of a national ordinance and provides us with an incredible source of design lessons. Following the US's possession of the Midwest and especially after the acquisition of the Louisiana territory from France, the US government sought a way to subdivide, sell, distribute, and occupy their new territory.[^For an excellent survey of these events, see Andro Linklater's book *Measuring America*.] The challenge was simple—how does one manage and sell land that had yet to be mapped or occupied? The solution was ingenious—a surveying and organizational method that resulted in a geometric grid to guide the future growth of the nation (a grid which continues to do so to this day).
+
+One of the primary lessons from the 1785 Ordinance rests in how it divided the scale of the country down into manageable units. By linking a system of measure with a system of survey, occupation, and development, the Ordinance provided a universal canvas for future growth. It is especially important to note that the Ordinance spoke relatively little of land uses and instead focused on land subdivision. The United States has changed dramatically over the centuries since, yet the Ordinance still provides an adequate framework. Because its divisions were based on a set of dimensions that have proven to be flexible and useful over time (within the Imperial measurement system), any development that has occurred since the first survey has been successfully and seamlessly accommodated into the framework.
+
+
+## A New National Ordinance
+It is lessons like those from the 1785 Ordinance that can be carried forward and adapted for other countries. All country's share an unknown future. Just as the 1785 Ordinance in the US did not attempt to predict the future, nor should others. 
+
+Contrary to the unknowns of the 18th-century world, the geographical limits of the world are today known. In most cases, with the benefit of modern GPS technology and previous mapping endeavors, countries do not need to focus on discovery and can instead focus on design. A national ordinance provides the canvas for growth and sets the tone for the finer details. Its design relies on the country's unique history and unique set of contemporary circumstances. 
+
+The particulars of a metric system utilizing highly composite numbers were only briefly touch upon in the *Introduction*. Here, we will now begin to focus on them. For our new national ordinance proposed here, the major units of subdivision shall comprise the *township* and the *section*.[^These terms are being borrowed from the 1785 Land Ordinance of the United States. We welcome alternatives.]
+
+Part of the challenge for a country's national planning efforts is knowing at what scales specific rules and design interventions should be inserted. In reality, *scale* is a continuous medium (i.e., things of all sizes are built, from the sub-millimeter to multi-kilometer). Everyday we interact with objects of all sizes: four centimeter cabinet pulls, or an elevator ride that takes us up 300 meters. But these reflect rules and designs which are often discontinuous interventions: they affect specific sizes and areas, with their influence tapering off as the scale changes (a cabinet's handle has little to do with the height of the building).
+
+As one scale tapers off, another emerges with their associated design regulations essentially passing the baton of responsibility. These design and regulatory interventions should occur roughly at powers of 10 in scale. In other words, a regulation's domain should account for no more than about 10% (or 10 times) that of another. This allows for a degree of fine tuning across scales and results in different "yardsticks" of design (e.g., a neighborhood on the order of one kilometer versus a region on the order of 10 kilometers).
+
+Recognizing this, we have divided a hypothetical country into the design scales listed in the table below.
+
++++
+**The Design Scales of Urbanism**
+
+| Scale | Yardstick (meters) | Definition |
+|:--|:--|:--|
+| **Country** | 180,000+ | Encompassing all sovereign lands.|
+| **Region** | 30,000 | May be defined by political landscape, geography, existing infrastructure, metropolitan areas, among other factors.|
+| **Township (City)** | 7,200 | A large hub of people, development, and activity.[^There are as many definitions of the word *city* as there are cities in this world. For the purposes of this paper, we will use the definition developed by Doug Allen in his "History of Urban Form" course at Georgia Tech: "A city is a political association manifest as a collective work of architecture built over time. A city contains two orders: a political order and an economic order. The political order is a framework of common elements owned collectively. The economic order consists of individually owned parcels and their occupants within that collective framework.”] |
+| **Section (Neighborhood)** | 1,200 | A locally unique area which may be differentiated by its architecture, people, land uses, or history, among other factors. |
+| **Block** | 120 | An area of private property surrounded on all sides by public rights-of-way. This scale may also include large buildings. |
+| **Lot** | 12 | A private parcel of land within a block and subject to zoning regulations. This scale may also include small buildings. |
+| **Building Materials** | 1.2 | The atomic units of construction.
+
++++
+/Scale Poster.jpg 
+
++++
+The table below lists the regulatory devices that operate within the scales outlined above. 
+
+**Subdivision Devices and their Associated Design Scales**
+
+| Regulatory Device | Subdivision Device | Design Scale |
+|:--|:--|:--|
+| National Ordinance | Township | Country, Region, City |
+| National Ordinance | Section | City, Neighborhood |
+| City Planning Enabling Statute | Master Street Plan | City, Neighborhood, Block, Lot |
+
+
+### Townships
+The largest unit of subdivision within our proposed national ordinance is called a *township*. A township is made up of 36 *sections* (see discussion below), with each section being 1.2 km on a side, organized into a square grid pattern of 6x6 sections, making for a township 7.2 km on a side[^Given the subtle curvature of the earth, the townships, when surveyed, will have to be adjusted in certain intervals to maintain order. That discussion is beyond the scope of this paper.].
+
+The dimensions of townships and sections are made to be divisible by six. The 1200 m (1.2 km) unit, provides more opportunities for the devices of urbanism (lots, blocks, streets, buildings, etc) to materialize in whole meters, avoiding fractional parts, streamlining subdivision, and adapting to changing needs. Additionally, subsequent subdivisions of the 1200 m section are better facilitated than those of 1000 m, as was shown in the introduction of this paper.
+
+The 7.2 km township is commensurate in size with major cities throughout the world (see table below). Individual townships, then, may be envisioned as potential independent towns or cities, an area of allocated land for development to grow into.
+
+**Comparison of a Township to the Sizes of Cities**
+
+| City | Size (km) | Area (km^2) | Townships |
+|:--|:--|:--|:--|
+| **Township** | **7.2 x 7.2** | **51.8** | **1.0** |
+| Manhattan | 3.5 x 20 | 70 | 1.4 |
+| Paris | 11 x 10 | 85 | 1.6 |
+| Barcelona | 8 x 6 | 48 | 0.9 |
+| Atlanta (Beltline) | 6 x 10 | 48 | 0.9 |
+| U.S. Township | 9.7 x 9.7 | 93.3 | 1.8 |
+
+Each township will likely, over time, take on different characters based on its unique position, being affected by geography, population, land use, among many other factors. While the uses that will fall within each township will differ, the subdivision patterns are sized to accommodate whatever comes their way.[^This is a critical point and will be addressed more fully in the next chapter on *master street plans*.]
+
+With all of this said and proposed, the exact delineation of a township isn't as important as the individual sections that make it up. The township may be 5x5 sections, or 6x6, 10x10, or 12x12. The size may be dependent upon the exact surveying method used, or the intended jurisdiction for political or economic purposes. Here, we are defining a township in terms of the impact on the urban form of development as well as the general sizes of precedent. 
+
+Where the township may be more of an administrative unit, the section, though smaller, is seen here as the primary development unit for the region. 
+
+### Sections
+A township is the scale of a city; a section is the scale of a neighborhood. As referenced above, a section is 1.2 km on a side. The section is the intermediate scale in planning, falling in between that of the entire country and a single city block, roughly describing a size of a neighborhood. At this scale, land planning begins to have an immediate and daily effect on its users. 
+
+#### The Neighborhood Unit
+The idea of the *neighborhood unit* was first proposed by Clarence Perry in 1929 in *The Regional Survey of New York and Its Environs, Vol. 7*. In that study, Perry asserted that a land plan and its associated uses should be scaled according to comfortable, pedestrian walking distances (e.g., a child's walk to school). The neighborhood unit thus combined housing, schools and other institutions, parks, and shopping all within a relatively tight urban fabric. The concept has recently been revived by the Congress for the New Urbanism.[^See https://www.cnu.org/publicsquare/2017/10/31/25-great-ideas-new-urbanism]
+
+Walking rates, however, vary with the age of the pedestrian (see table below). The average young adult walks at 1.51 m/s. At this rate, a 5-minute walk would cover 450 meters. But the average older adult walks at 1.25m/s, covering 375 meters in five minutes.
+
+**Five-Minute Walking Shed for Younger and Older Pedestrians**[^Walking speeds are taken from Richard L. Knoblauch, Martin T. Pietrucha, and Marsha Nitzburg, reporting their research in "Field Studies of Pedestrian Walking Speed and Start-Up Time." The paper appeared in the Transportation Research Board's Transportation Research Record No. 1538, Pedestrian and Bicycle Research, published in 1996 at http://www.usroads.com/.]
+
+| Pedestrian | Walking Speed (m/s) | 5-Minute Distance (m) | 5-Minute Area (km^2) |
+|:--|:--|:--|:--|
+| Young Adult | 1.51 | 450 | 0.64 |
+| Older Adult | 1.25 | 375 | 0.44 |
+| *Average* | *1.40* | *420* | *0.55* |
+
+
+The main idea is for a neighborhood to house the majority of one's needs within walking distance. One may only need to go to an airport once a year, but they may need to go to school or the grocery store on a daily or weekly basis. It is these daily and weekly trips that the planner should strive to accommodate within individual neighborhoods. Walkable urbanism simplifies these trips and makes them more efficient. Additionally, walkable urbanism helps to positively increase social interaction, public health, safety, and, while harder to measure, simply makes for a more pleasurable living environment[^For more on the benefits of walkability, see "Walkable City: How Downtown Can Save America, One Step at a Time" by Jeff Speck].
+
+The neighborhood unit and five-minute walk are fine concepts that help to break down the scale of development to more appropriately match the needs (and limitations) of people. While these lessons are important in our planning efforts, we are not using them directly here but instead have incorporated the concepts in an altered form. Consider, for example, the table below, which compares a number of neighborhoods around the world with the equivalent number of Perry's neighborhood units contained within them. In many cases, established, unique, well-defined, and functioning neighborhoods tend to be larger than a single neighborhood unit. 
+
++++
+**Sizes of Neighborhoods Around the World in Comparison to Clarence Perry's *Neighborhood Unit***
+
+| City | Neighborhood | Size (km) | Area (km^2) | No. of Neighborhood Units |
+|:--|:--|:--|:--|:--|
+| - | **Perry's Neighborhood Unit** | **0.8 x 0.8** | **0.6** | **1.0** |
+| Atlanta | Inman Park | 0.5 x 1.5 | 0.8 | 1.2 |
+| Providence | College Hill | 1.0 x 1.2 | 1.2 | 1.9 |
+| New York | Forest Hills | 1.0 x 1.0 | 1.0 | 1.6 |
+| New York | Greenwich Village | 1.0 x 1.0 | 1.0 | 1.6 |
+| Paris | Montmartre | 1.0 x 0.8 | 0.8 | 1.3 |
+| Barcelona | El Raval | 0.8 x 1.5 | 1.2 | 1.9 |
+| Vienna | Inner Stadt | 1.5 x 1.2 | 1.8 | 2.8 |
+| Ancient Roman Coloniae | - | 0.7 x 0.7 | 0.5 | 0.8 |
+| Section | - | 1.2 x 1.2 | 1.4 | 2.2 |
+| U.S. Section | - | 1.6 x 1.6 | 2.6 | 4.0 |
+| U.S. Quarter Section | - | 0.8 x 0.8 | 0.6 | 1.0
+
+The street network, architectural character, and various land uses of successful neighborhoods have tended to agglomerate together in roughly similar sizes, on the order of a single square kilometer. The size of our section, proposed here to be 1.2 km, is a reflection of this observation. It is a scale at which a greater mix of uses and number of housing units may be accommodated. Additionally, it allows for an easier "one-to-one" comparison with other successful neighborhoods to draw from.
+
+With that said, it is anticipated that each Section could evolve into a complete and independent neighborhood (or multiple neighborhoods). In the American Midwest, the 1-mile square section, e.g., are slightly too large in regards to pedestrian travel.  While the US Quarter Section matches the size of a neighborhood unit at 1/2-mile on a side, the five-minute walk is only possible from the direct center of the quarter section. Additionally, the US quarter section is not the primary unit of subdivision that the writers of the 1785 Land Ordinances used. While many US Sections were subdivided into quarter sections, it was not in a consistent manner.
+
+The comparable reduction in length as compared to the US Section promotes a finer-grained urbanism more conducive to the pedestrian. Additionally, it increases the connectivity of the overall, regional street network. The perimeter of each Section could be defined by streets or thoroughfares that, when considered together, form that regional network.
+
+The neighborhood unit (either Perry's original or New Urbanism's modified version), when applied to large land areas, may risk putting too many "by-pass" roads in place and leaving too little room for the neighborhoods themselves. When looking at the overall street networks and neighborhood divisions of the great cities around the world (pre-1945 Atlanta, Barcelona, Paris, etc.), the "global" street network (i.e., the larger thoroughfares for moving traffic across a city) appears closer to 1.2 km intervals rather than 0.8 km intervals (though in New York’s case major thoroughfares are distributed tightly throughout the grid).[^To emphasize this again, these are not hard and fast rules because cities are not hard and fast machines looking for the next computer input. These are general guidelines stemming from observations that reveal a relatively tight dimensional range of what works and what doesn't work, but there are always exceptions.]
+
+All of this is not to say that the smaller scale of Perry's neighborhood unit should be avoided; far from it. Development should strive to be as mixed and as fine-grained as possible, both in subdivision and in use. But as a planning device and as a dimensional tool, we find the 1.2 km section proves sufficient for scale and proficient for dimensional fungibility.
+
+Each section (or quarter-section, depending on housing density) should strive to contain as many land uses and services as possible, but we will not go into those here.[^Note that we are not attempting to study or specify the magical numbers or ratios of these land uses. That is beyond the scope of this paper, which is focusing strictly on the urban form of places. A neighborhood may need one school, or it may need five; it may need 100 detached homes or 10,000 apartments. It simply depends on the thousands of other variables that define cities and how they are to be occupied and used. Our job here is to stretch and mount the canvas; we leave the picture painting to you.] Within each section, a half-width right-of-way is included around the perimeter; as more sections agglomerate next to one another, whole-width rights-of-way will be formed along their seams. The exact dimension of the right-of-way is not precisely specified nor does it need to be provided that it falls within an appropriate range (based on precedent) and on multiples of hexameters. With all urban devices evenly divisible by hexameters a great variety of whole dimensions may be employed for all blocks, lots, and streets. This allows the widest range possible of dimensional flexibility and, by extension, sustainability, while preserving the many benefits of highly composite numbers. It preserves the integrity of the number system and helps to avoid the many pitfalls of repeating decimals and the annoyances of complex fractions.
+
+A section does not require that all blocks and streets be identical or that all blocks course out within 1.2 km. The only requirement is that those elements are sized in units of six. Consider the section to be atomized into six-meter squares. The main purpose of the section, from an urban form perspective, is to ensure a certain level of subdivision and connectivity at the neighborhood scale.
+
+## End National Ordinance
+In spite of the dimensional constraints outlined above, a great variety and character of land plans can be attained. The specific sizes of land planning devices (lots, blocks, and streets) will be heavily explored and illustrated in the next chapter on *master street plans*.
