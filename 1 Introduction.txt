@@ -1,0 +1,172 @@
+# Chapter 1: Introduction
+
+***
+
+> The city is like some large house and the house in turn like some small city. —Leon Battista Alberti
+
+Cities are massive, collective designs. They are built by many hands over long periods of time, street by street, building by building. Every step of construction is managed by someone or some group of people. These managers decide where things go, what they should be, how big, how many, and how tall. Every square inch of a city is imbibed with hundreds or even thousands of decisions like these made over time. Every square inch has a history. That history is there to observe and to study if one knows where and how to look.
+
+Leon Battista Alberti, the influential architect of the Italian Renaissance, described a city as a large house and a house as a small city. His analogy is worth some thought.
+
+Architects design houses. Their challenge is to synthesize the basic functional requirements of building with the art of living. And they must organize a given program in a way that is both structurally feasible and aesthetically pleasing. Architects weave back and forth between design scales, from the largest site to the smallest detail. They must site the house on the lot but also consider the location of each door knob. They must work in plan, section, and elevation simultaneously, massaging the design until a coherent result is achieved. The architect also understands that the two-dimensional drawing is not the final product. They must see beyond two-dimensions and imagine a third (and fourth) to truly grasp the design they are forming. Design is not a guess; it is an intention.
+
+A city is a house expanded and multiplied many times over. A city does not possess one designer but thousands. It does not have a single client but thousands. It does not fit on a lot but contains thousands of lots. The hallways of a city are its thoroughfares. The public rooms, its parks and civic buildings. The private rooms, its houses and dwellings. And the walls of a city, most importantly, are the things that give it structure: they are its legal boundaries. 
+
+Legal boundaries are a curious human invention. They are a reference in space specifying ownership. They simultaneously divide and join. They separate one neighbor from another, but they also bind them into a mutual understanding of "neighborliness"—*"this is mine and that is yours."*
+
+Without walls a house falls apart. It is similar with a city. Cities, at their core, represent an equilibrium of public and private space, with boundaries acting as the binding agent between those two domains. The best cities manage to balance public and private; the worst tend to disregard public space for private interest.
+
+Like an architect designing a house, a city planner must be able to conceptualize proper urban forms and to provide a plan that helps a city to grow into that form.
+
+## Planning a Country
+Today's urban landscape is experiencing dramatic changes and rapid expansion. China and India routinely grab world headlines with their booming populations and urbanization plans. But other countries, like Kuwait, are not only planning and building cities of their own but are looking at their entire sovereign land as a unit to be subdivided in the most prosperous way possible. While this detailed consideration of an entire country expands the challenge and complexity by some orders of magnitude, the same tools and principles of design can lead us to a solution. We are simply weaving a larger tapestry. It will take more time and require more hands, but the concepts found within the design of a house can extend to that of a city and country.
+
+While Alberti's analogy is a powerful and useful one, it is not sufficient to fully capture the complexities of urbanism. The logic of cities cannot be reduced to simple analogies or mathematical laws, regardless of how elegant their claims may be.[^We must be vigilant. H.L. Mencken, one of America's great writers of the 20th century, warns us that "for every complex problem there is an answer that is clear, simple, and wrong".] The design of cities requires an acceptance of natural complexity. This is not to suggest it is an impossible order to adequately plan for future growth. The suggestions made in this paper are not intended to be an oversimplification of reality; they are not trying to force the complexities of reality into simplified yet inadequate mathematical ratios. We are doing the exact opposite. The goal is to provide a framework that specifically does not hinge on simple or predictable outcomes, because cities are neither simple nor predictable. In a framework for urbanism, flexibility is the key quality.
+
+The chapters that follow will address the spectrum of design scales: from the country to the city to the block to the lot. While they will be presented linearly, their mutual explorations overlap. Just as an architect weaves a house together, we are weaving a nation together. At every step, the decisions within one scale are tested and confirmed with those of another. With this methodology, the very small and the very large are intertwined: they are not many disparate designs but one holistic design. 
+
+But first, to continue with this introduction, there are a few important concepts that must be addressed. They may appear a bit random and disconnected at this point, but their importance will be made obvious (we hope) throughout the remainder of the paper.
+
+## Magnitude and Scale
+The largest design scale, for our purposes, is that of a country. Abstract numbers capture the vastness of this scale: thousands or millions of square kilometers of land, millions or billions of people, and GDP in the billions or trillions. It would be foolish to believe a human to be capable of processing such raw figures. Even today's supercomputers with their machine-learning algorithms cannot begin to adequately assess this multivariate problem and provide a viable and trusted solution. But we are a wily species. Because we know our own limitations we can devise ways to work around them. If a number is too big to conceptualize, we can simply make it smaller. We can divide and conquer.
+
+A country can be divided into regions; depending on the country and the region, this may reduce the scale by a factor of 10. But we can go further. Regions can be divided into metropolitan areas; those into cities, then neighborhoods, blocks, lots, and buildings. It is at this building scale that the transition is made from the domain of *planning* to that of *architecture*; the disciplines are one in the same, they simply reference different scales. 
+
+While figures of size and number can be used to define the different scale, they are not actionable bits of information. We are not interested in mere numbers. We are interested in their patterns, their utility, and their eventual affect on our world. It is through patterns that we can learn from history's greatest cities and apply that knowledge to the future of others. It is through utility that we can put that knowledge to work for us.
+
+Cities change from moment to moment, their numbers constantly fluctuating. For example, Rome, Italy, reached a population of one million people by the third century AD.[^Doug Allen, "History of Urban Form" introductory lecture, delivered at Georgia Tech, 2013.] That fell to approximately 60,000 in the middle ages,[^ibid.] only to rise again to one million by the 1960s.[^ibid.] The city itself (the idea and artifact of Rome) never wavered, but the patterns of its use ebbed and flowed through time. 
+
+## Predictions and Change
+It is impossible to predict the future. We'll say that again with emphasis: *it is impossible to predict the future.* To think otherwise is to succumb to the same mistakes of the past, mistakes which history makes difficult to forget. There are numerous examples of inaccurate assumptions and false foresight. Many of these examples have led to missed opportunities (e.g., the planning of some major capitals including Brasilia and New Delhi), unintended consequences (e.g., the policies that drove the development of the American suburbs), or intended consequences (e.g., the works of Robert Moses in New York). The lesson of history is to be wary of predictions. Predictions can and should be used to provide a rough guide or starting off point, but their direct application should be thoughtfully limited. A design's parti should not rest on the accuracy of a prediction alone. 
+
+This is a critical point. Especially in the design of the physical framework for a country or city, a design should not and cannot rest on a single path of realization. Instead of designing for a single possible future, we must design for all possible futures. We must establish a system that is as adaptive as possible for as many different futures as possible. It is only through flexibility that good urbanism can have a chance at materializing; as the saying goes, Rome was not built in a day. Like geology, cities require pressure and time.
+
+While there certainly are policies that can push a country to development in a certain place or within a certain form, there must be a built-in hedge against the potential failure of complete adherence to such policies. As cities are made up of thousands or millions of people making thousands, millions, or billions of decisions over tens or hundreds or thousands of years, it is inevitable that things will change and that they will do so in complex and unpredictable ways. The second law of thermodynamics applies equally to both the universe and to cities.
+
+Most building development that occurs today has a short-time horizon factored into their pro formas. Some timeframes are measured in mere years. On average, buildings last decades (and so do people).[^For more discussion on this, refer to the chapter on Master Street Plans.] Cities, on the other hand, can last for millennia.[^Some examples: Athens, Greece; Damascus, Syria; Cairo, Egypt.] Cities are greater than the sum of their parts; they can outlast the lifespans of their individual components. This is because a city is not a *thing* but a *structure.* This structure absorbs the contributions of individual inhabitants, whether past, present, or future. These contributions are ultimately reflected in the legal boundaries of cities. So while the grocery store or the auto dealership may one day close down, the city itself lives on, waiting to absorb our next idea.
+
+A city is an organized territory that is only briefly populated by the people and buildings of any given moment. It's similar in biology. A boy, e.g., grows into a man, and while the body is largely the same (two legs, two arms) the mind yields over time to a different person. The man has memories of his childhood, but the accumulation of his experiences increasingly distances him from the boy of the past. The man is a new person in the same body. Likewise, the city is a constantly evolving self within the same structure.
+
+It was stated earlier that boundaries are the structural framework of cities. Because of their physical and legal tenacity, boundaries tend to stick around for a long, long time. Once platted and surveyed, their lines over time become permanent incisions in the ground, reflected in the fences, streets, and building walls that spring directly from them. Each successive generation works within and builds upon these legal lines, altering them little if at all.
+
+Boundaries must be designed just like anything else. In the history of cities, the placement of a boundary is the most important design move that can ever be made. The planner of a territory must look at the boundary as their primary design medium. At the national scale, the tool is called a *national ordinance*. At the city scale, it is called a *master street plan*. We will explore both of these tools in depth in the following chapters.
+
+## Dimensions and Precedent
+Dimensions are the DNA of design. This applies to all scales of design, from furniture to architecture to cities. Dimensions turn abstract intentions into physical realities. Conscious design happens when dimensions yield a desired outcome. Dimensions must respond to the subtle requirements of life and unique demands of the human body; they cannot be too big or too small as there is a relatively tight range of what will work and what will not. E.g., in the thousands of years that humans have been resting on beds the dimensions of those beds have changed little, if at all. For thousands of years, then, we have required rooms of a certain size to contain beds of a certain size. Much has changed over time, but the human scale persists.
+
+In the design of cities, a useful dimensional range is readily measurable and definable. One simply must look at precedent. Real cities, standing and operating today, provide the best evidence of what works and what doesn't work. They are a pool from which we can draw ideas, either directly or indirectly. These design lessons are available to any observant urbanist and they are innumerable.
+
+The importance of precedent cannot be overstated in the development of any planning document. Given the lasting impact of decisions on the public framework of cities, it is incumbent upon the city planner to ensure that any document produced has first passed rigorous testing *on paper*. If an error is discovered on  paper, it requires the swipe of a pencil's eraser (or perhaps the tap of a keyboards 'delete' key) to take it back and try again. On the other hand, if an error is discovered in the field (built, on the ground, with investments of time, money, energy, and materials expended) backtracking is not so easily done. One must either live with the error (and force future generations to do the same) or spend additional investments to rectify the error.
+
+Referencing design precedent is a critical step in a successful design workflow. It can help prequalify good decisions and disqualify bad ones. If utilized correctly, the savings of money and assurances of success is unlimited.
+
+The international cities being built today require international precedent. While subsequent chapters will include many examples of American urbanism, a substantial number of international cities will be included for comparison and will reveal many surprising consistencies of urban development around the world and throughout time.
+
+With the aid of precedent, we don't have to start from scratch, we don't have to reinvent the wheel, we can begin with the benefit of thousands of years of country- and city-building.
+
+Each successive scale in design is affected by those above and below it. While the influence of one scale has more weight upon those within its immediate proximity, it is not a far stretch to see how even the largest expanse of land can come to affect the smallest detail, and vice versa. If the units of measure follow the same patterns across scales, a universal design language emerges and a great level of efficiency and convenience can be attained.
+
+The design and construction of buildings have always been based on the atomic units of buildings construction. By extension, this applies to cities. The standard sizes of sheets of plywood, the spacing of studs, the spans of beams, these all multiply many times over to produce individual buildings. Buildings, in turn, multiply many times over to produce blocks. Blocks lead to neighborhoods; neighborhoods to cities; cities to regions; and regions to countries. At each jump in scale, the dimensional DNA should be allowed to freely propagate. Disparate design projects (from houses to convention centers) can in fact share a universal ancestry of measurement.
+
+When considering entire territories, small inefficiencies can add up to enormous proportions. We provide this specific but illustrative example: it is most economical if sheets of plywood evenly cover the exterior of a building's facade; otherwise the plywood must be custom cut to fit, resulting in effort, money, and material expended. This seemingly minor inconvenience gets multiplied over perhaps 30 buildings on a block amongst perhaps 30 blocks in a neighborhood and 30 neighborhoods in a city. So that original 30 minute and $100 expense overtime and across a city expands into a month of collective work and $2.7 million. And that's just cutting a piece of plywood.
+
+A mason will look on in dismay at a dimension that does not allow an even coursing of brick. There are very few circumstances that absolutely require, say, a length of 120.27 bricks rather than an even 120 (with 0.73 bricks cut off at the end of a course, or 0.365 bricks at either end, or the mortar joints evenly adjusted ever so slightly). While the spatial needs of humans are indeed particular, they're not *that* particular. It is incumbent upon the designer to take such things into account. The associated costs and effort could be spent more wisely elsewhere.
+
+Likewise, the city planner should be equally as dismayed when buildings do not course within a lot or lots do not course within a block. For at this larger scale of design, inefficiencies are exacerbated as they become imbedded into the very foundations (the boundaries) of the city. When the streets and blocks themselves provide inadequate sizing, ill-suited geometries, and inflexible dimensions, future generations are the ones that will toil the most.
+
+It is relatively easy to rebuild a house; it is an entirely different undertaking to reconfigure a block or a street network. While smart urban planning cannot squelch every inefficiency, it can at least provide a better dimensional framework for the way we live our lives. This is one of the most important, far reaching, and long lasting aspects of planning.
+
+Since human developments naturally evolve and change over time, that change must be planned for and accommodated in the layout of a territory. Flexibility in dimensions will allow for flexibility in uses. Countries and cities must have their eyes on the future, and they must lay a foundation that current and subsequent generations can comfortably build upon.
+
+## Highly Composite Numbers
+Dimensions are numbers with strings attached to the real world. They are a way for us to record the sizes of things, whether as a record of something built or as a requirement of something to be built. In the applied mathematics of the built environment, dimensions are one of the primary tools. They allow us to manipulate the environment first conceptually before doing it physically; we can combine, extend, divide, or multiply lots with a simple calculation. This act of manipulation we call *design*. Easier methods of manipulation will make the design process that much more efficient. The search for a better method of manipulation (a better system of dimensions) can therefore begin as an exercise in finding the most flexible numbers. 
+
+Simply, frankly, mathematically, the number 10 is not as flexible or as fungible as the number 12. Ten has four divisors and can only be divided wholly by 1, 2, 5, and 10. Any and all other divisions will result in a remainder. Twelve, on the other hand, has six divisors and can be divided wholly by 1, 2, 3, 4, 6, and 12. Because of these additional divisors, 12 is a more workable and fungible number than 10; 12 has more utility than 10. More divisors means a number is able to adapt to more situations, making it easier to respond to a range of needs. It is similar to the malleability of gold verses the brittleness of glass; glass does one thing very well, but gold can be shaped in numerous ways as necessary.
+
+A.C. Aitken, Professor of Mathematics at the University of Edinburgh, described twelve as “a number divisible by 2, 3, 4 and 6, while its square...144, divides by these and in addition by 8, 9, 12, 16, 18, 24, 36, 48 and 72, with all the consequences of economical and suitable use in parcelling, packaging, geometrical and physical construction, trigonometry and the rest, to which any applied mathematician and for that matter any practical man, carpenter, grocer, joiner, packer could bear witness”[^For the complete paper see http://www.dozenalsociety.org.uk/pdfs/aitken.pdf]. And he went on to describe the metric (base-10) system as "a notably inferior one; it cannot even express exactly for example the division of the unit, of currency, metrical or whatever, by so simple, ubiquitous and constantly useful a number as three”[^ibid.].
+
+Furthermore, numbers are repeatedly subjected to multiple subdivisions. Halving, for example, is perhaps most common; in fact it is embedded in our own DNA (think about it). Twelve-hundred and its resultants can be halved four times before encountering fractions (1200 to 600 to 300 to 150 and finally to 75) while 1000 can be halved only three times (1000 to 500 to 250 to 125). But halving is not the only common method of subdivision. Thirds and fourths make frequent appearances throughout our daily lives (think about measuring cups, retail bays, divisions in a chest of drawers, money, time). With this in mind, we have analyzed numbers to see how they behave when subjected to successive iterations of subdivisions by quarters, thirds, and halves. That exercise is shown in the two diagrams below (note that the "censor bars" are covering fractional numbers; only whole numbers are counted in this exercise).
+
+/1000 offspring.png (The generational subdivision of 1,000.)
+
+/1200 offspring.png (The generational subdivision of 1,200.)
+
+*Generational subdivision* is being defined here as subsequent divisions of both a number and its resultant “offspring” (e.g., 600 is an offspring of 1,200, being half of 1200; 600 itself can then be subdivided further). The diagrams above reveal the superiority of 1200 over that of 1000: 1000 only has 5 generations of subdivisions, while 1200 has 14 (i.e., 1200 is almost three times more flexible than 1000). Additionally, the "offspring" of 1200 are themselves superior to the "offspring" of 1000. The numerical fungibility of "twelveness" passes from generation to generation. This is a simple observation and characteristic of mathematics and nothing more; however, it can be readily utilized in planning and architecture as we will show.
+
+One cannot wholly divide 10 dollars or 10 meters into thirds. To do so leaves a remainder of money or land. If three people split 10 dollars, who is to end up with the leftover cent? If three property owners seek equal stakes in a 10-meter lot, where exactly should the lot lines be drawn? While pure mathematics provides a solution with repeating decimal places, the applied mathematics of the real world is at a loss. In reality, the decimal ends at some point; whether that's 10.33 or 10.3333, there will be a remainder.
+
+To see this problem as a trivial one is to miss the point entirely. Wars have been fought and lives have been lost over the placement of boundary lines. To artificially skew one way or another can lead to unintended and undesirable consequences. A system of land subdivision must strive for absolute fairness. Numbers that are highly composite are those that contain a high number of divisors, making them perfectly suited for systems that require divisions (such as land subdivision). Highly composite numbers are more properly outfitted for the qualities desired. And they are already heavily used elsewhere.
+
+Our construct of *time*, for example, is built on highly composite numbers. There are 60 seconds in a minute, 60 minutes in an hour, and 24 hours in a day, all superstar numbers exhibiting extreme levels of divisibility. And there's geometry, too, with a circle being divided into 360 degrees. Those degrees are divided into 60 arc minutes and those into 60 arc seconds. Both time and geometry combine together to form our modern geographical coordinate system which divides up the entire surface of the earth into highly composite units.
+
+Highly composite numbers have already made their way into the metric system (see the table below). The built environment, as its moniker implies, requires builders in order to materialize. The builder's task is to expand the scale of a drawing to full scale and to render a drawing using real materials. It is an intense process of communication between an architect, general contractor, their subs, and their subs' subs. Given all the complexities that already exist in the act of building, it is best to maximize simplicity and efficiency in the process where possible. With that said, it is easier to cut a sheet of plywood in half when its length is evenly divisible by two (half of a standard 2,400 mm sheet yields two sheets 1,200 mm wide); the mental math is manageable and the units themselves are highlighted on a tape measurer for easy transfer. Otherwise, half of, say, a 2,437mm sheet is 1,218.5 mm, which requires both tedious counting of 1-mm markings on a tape and the use of a calculator (depending on the mental facility of the subcontractor).
+
+**Highly Composite Numbers and the Metric System**[^This paper uses the SI metric system simply because that is the system as adopted by Kuwait which served as the general context of this research. However, we are strongly in favor of the Imperial System and will work to develop a modified paper to utilize those unique (and superior) properties. Or, better still, we hope to develop a version following the TGM system which fully utilizes the base-12 number system; for more information on that, visit: http://www.dozenal.org/drupal/content/tgm-coherent-dozenal-metrology.html]
+
+| Metric | Device |
+|:--|:--|
+| 600mm x 600mm | Standard ceiling tile
+| 1200mm x 2400mm | Standard sheet of plywood and drywall |
+| 60mm multiples | Plywood sheet sizing
+| 60cm | Standard stud spacing |
+
+Whether one is dealing with ceiling tiles, beams, studs, or sheathing, highly composite numbers such as 60 become incredibly useful to work with in the field. Not only could that plywood be cut in half evenly, but it could be cut into thirds, fourths, fifths, sixths, eighths, tenths, twelfths, and so on. Ceiling tiles measuring 600 mm have a better chance at coursing out in a room of similar number than otherwise.
+
+The task here is to incorporate this extant preference for highly composite numbers into a unified, efficient, and practical system of land subdivision. This is by no means the first time that highly composite numbers have been promoted in this way. Plato, in Book V of his *Laws* written 360 BCE, sought to apply the number 5040 to a city's citizenry and land area, stating:
+
+> "We will fix the number of citizens at 5040, to which the number of houses and portions of land shall correspond. Let the number be divided into two parts and then into three; for it is very convenient for the purposes of distribution, and is capable of fifty-nine divisions, ten of which proceed without interval from one to ten. Here are numbers enough for war and peace, and for all contracts and dealings. These properties of numbers are true, and should be ascertained with a view to use."
+
+As he wraps up his book, Plato extends this power of number and arithmetic to every facet of life:
+
+> "There is no difficulty in perceiving that the twelve parts admit of the greatest number of divisions of that which they include, or in seeing the other numbers which are consequent upon them, and are produced out of them up to 5040; wherefore the law ought to order phratries[^A tribal subdivision (per Merriam-Webstier.com).] and demes [^A unit of local government in ancient Attic (per Merriam-Webstier.com).] and villages, and also military ranks and movements, as well as coins and measures, dry and liquid, and weights, so as to be commensurable and agreeable to one another. Nor should we fear the appearance of minuteness, if the law commands that all the vessels which a man possesses should have a common measure, when we consider generally that the divisions and variations of numbers have a use in respect of all the variations of which they are susceptible, both in themselves and as measures of height and depth, and in all sounds, and in motions, as well those which proceed in a straight direction, upwards or downwards, as in those which go round and round. The legislator is to consider all these things and to bid the citizens, as far as possible, not to lose sight of numerical order; for no single instrument of youthful education has such mighty power, both as regards domestic economy and politics, and in the arts, as the study of arithmetic. Above all, arithmetic stirs up him who is by nature sleepy and dull, and makes him quick to learn, retentive, shrewd, and aided by art divine he makes progress quite beyond his natural powers."
+
+For our purposes here, we are proposing that the dimensions of all the elements of urbanism (blocks, streets, buildings, rooms, etc.) be divisible by six. This helps to ensure, to within a half unit, that designs will be efficient and sustainable through the mathematical properties of coursing, packing, and ease of use. A six-meter grid could be draped upon a landscape, much like the American Land Ordinance of 1785 (which will be discussed in the next chapter), with boundaries, buildings, streets, parking spaces, and bedrooms all snapping to their corners.[^A version of this has already been adopted for mapping and location purposes. *What3Words* has draped a three-meter grid across the entire globe to simplify coordinates. See https://what3words.com. Thanks to the power of number, their system and and the one presented in this paper is readymade for syncing.]
+
++++
+**Components of Land Subdivision and their Proposed Dimensions for the Metric System**
+
+| Meters | Divisions of Six | Feet[^Shown here for reference for the Imperialists among you.] | Device |
+|:--|:--|:--|:--|
+| 6 | 1 | 19.7 | Alley |
+| 12 | 2 | 39.4 | Standard lot width |
+| 18 | 3 | 59.1 | Standard right-of-way |
+| 24 | 4 | 78.7 | Major right-of-way |
+| 30 | 5 | 98.4 | Standard lot depth, Major right-of-way |
+| 33 | 5.5 | 108.3 | Standard lot depth (to obtain a particular block size, explained later) |
+| 36 | 6 | 118.1 | Standard lot depth |
+| 60 | 10 | 196.9 | Min. Block Side |
+| 192 | 32 | 629.9 | Max. Block Side |
+| 540 | 90 | 1,771.5 | Max. Block Perimeter |
+| 600 | 100 | 0.37mi, 0.6km | Quarter Section Length |
+| 1,200 | 200 | 0.74mi, 1.2km | Section Length |
+| 7,200 | 1,200 | 4.5mi, 7.2km | Township (6x6 Sections)
+
++++
+**Metric Area Comparisons**
+
+| Device | Metric | Square Six-Meters |
+|:--|:--|:--|
+| Township | 3,600 ha | 1,000,000 |
+| Section | 144 ha | 40,000 |
+| Quarter Section | 36 ha | 10,000 |
+| 12m x 36m Lot | 432 sm | 12 |
+| 12m x 33m Lot | 396 sm | 11 |
+| 12m x 30m Lot | 360 sm | 10 |
+
+We will explore the benefits of this system in detail in subsequent chapters, starting with the National Land Ordinance.
+
+## End Introduction
+This discussion is not meant to turn a city into a selfless machine for housing humans—far from it. The pursuit of cost savings and dimensional efficiencies runs parallel with that of environmental sustainability, economic frugalness, and higher quality of life. It is a matter of reallocating resources and reprioritizing efforts. By saving effort in one place, we can choose to spend it in another.
+
+Using one of the most successful companies in the world today as an example, Amazon did not become the king of retail because their copy of a particular book was superior to any other. It did so because of logistics—the *Taylorization*[^https://www.britannica.com/biography/Frederick-W-Taylor] of the shopping experience. While Amazon's copy of *To Kill a Mockingbird* is exactly the same as the one in the local bookstore, the buyer didn't have to move from their reading chair to get it. Like it or not, we are living in a world of extreme efficiencies, conveniences, and razor-thin margins. The same can be said for urbanism. If good urbanism is going to compete with bad urbanism, the process must be streamlined, cheap, efficient, and easy. There is nothing wrong with those terms in and of themselves. When applied to the land subdivision process, they can just as easily result in a walkable, sustainable, and beautiful network. Many of the great gridded towns across the United States (from Pasadena, CA, to New York, NY) stand as exemplars of taylorized urbanism—even an "office boy" can lay out a good town plan.[^As John Reps paradoxically laments in his book *The Making of Urban America*. See Chapter 11: Checkerboard Plans and Gridiron Cities. Reps focused more on the perceived flaws of the grid (its supposed mundaneness) rather than its actual properties and many benefits (navigability, efficiency, walkability, adaptability, among others).]
+
+Science and art have a symbiotic relationship. Science provides the foundation for art; art encourages science to dream. In urbanism, the science of space and the art of living go hand in hand. Mathematics has allowed us to build beautiful places; we must continue to listen to the lessons it provides and adapt it to our benefit.
+
+In closing, the scales addressed in this paper range from entire countries to individual stair steps. In regards to land subdivision (or, speaking more holistically, the subdivision of space), there are four common parameters that act across this wide spectrum:
+
+1. Dimensions of the human scale
+2. Atomic units of building construction
+3. Number theory
+4. Persistence of boundary lines
+
+Keep those things in mind as you continue reading. In the next two chapters we will explore *national ordinances* and *master street plans*, respectively.

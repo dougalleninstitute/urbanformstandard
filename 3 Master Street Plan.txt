@@ -1,0 +1,251 @@
+# Chapter 3: Master Street Plans
+
+***
+
+Leaving the scale of the country and region behind, we will now address the smaller, more intimate scales of the city and neighborhood. It is here that the day-to-day operations of life emerge and finer-grained planning decisions must be made. The many components of cities (houses, people, cars, etc.) each have their unique dimensional requirements that must be understood and accommodated.
+
+In this chapter, we will review the critical roles that streets play in both city form and function, explore an alternative to our modern-day zoning-dominated model of development, and reveal the dimensions of successful urban planning.
+
+## Streets
+#### Permanence
+
+What are cities made of? Think on this for a second and picture yourself walking or driving around. What do you see? Cars, dumpsters, people, trees, signs, sidewalks, ice-cream shops, shoe stores, hospitals, schools, libraries, skyscrapers, houses, apartments, etc. Cities are mankind's largest built work. Consider that each of the components just mentioned experience some level of change, at some rate, resulting in a life expectancy[^This concept of life expectancy is addressed by Brenda Scheer in "The Anatomy of Sprawl", *Places* Volume 14, Issue 2.]. The average big-box retail building, for example, is built to last only 10, 15, or 20 years. Interestingly, humans, street trees, and the average building[^There is a lot of spread in this number. The average residential building lasts about 150 years, but the average big-box or low-quality apartment complex lasts about 20 years. The overall average for all buildings is roughly 80 years.] share comparable life expectancies of roughly 80 years. But what is the element of the city that lasts the longest? The street.
+
++++
+| City Component | Life Expectancy (years) |
+|:--|:--|
+| Car | 20 |
+| Dumpster | 20 |
+| Building (Big-Box Retail) | 20 |
+| Street Tree | 80 |
+| People | 80 |
+| Building (Average) | 80 |
+| Building (House) | 150 |
+| Street Rights-of-Way | 1,000s |
+ 
+Streets (i.e., the boundary lines delineating the rights-of-way) can last on the order of thousands of years. An example of this is illustrated in Imola, Italy. Imola was founded by the ancient Romans about 2,000 years ago. When they subdivided their territory, they used a unit called a *heredium* which is 240 feet on a side. The word heredium shares a similar root to the English word *hereditary*. The idea was that a family would continue to pass on and inherit these heredia over time. Now imagine this taking place over a 2,000 year period, with the apex of the Roman Empire and then its subsequent decline, when everyone retreated behind the walls of their medieval cities, and then reemerged during the Renaissance, and then sparked the industrial revolution, and then had a couple of World Wars, and now everyone is walking around with iPhones. Even under the pressure of immense change experienced over that span of two thousand years, those heredia are still guiding the growth of Imola today.
+
+/Imola.png (Aerial photograph of Imola, Italy,[^Google Earth image, 2018.] with its long-lasting heredia shown dashed.)
+ 
+The boundary lines that were established by the ancient Romans two thousand years ago have subsequently been translated into farming lots, fences, building walls, streets[^"Street" is being referred to here not just as the asphalt, or the thing one drives on. Rather, the legal definition of "street" is a public right-of-way with its boundary lines that distinguish between public property and private property. The whole cross section of the right-of-way is the street: from property line to property line].
+
+Streets, then, form part of the "constitutional order" of cities: together with boundary lines, public places (including parks and buildings), and monuments, they are a part of the permanent framework of urbanism. The remainder, the "representational order", makes up the stuff we see day to day: cars, people, and private buildings, etc. These elements animate the constitutional order and give it meaning, but they are fleeting relative to the permanency of the constitutional order.
+
+/Boston Urban Form Xray.jpg (An "x-ray" of Boston's urban form reveals its constitutional order.)
+
+#### Resilience
+How do streets survive such long time scales? Where do they get their resiliency?
+
+First, public streets are collectively owned. Each member of the public has a stake in its streets. It's relatively easy for one person to coerce a few people into doing something, but it's a lot harder for one person to coerce a few thousand or million people. A street cannot simply be moved from here to there without having to get potentially millions of people to buy into such a move. Additionally, the legal network that makes up the foundation of property ownership is a function of the location of streets. Where does a setback proceed from? The street. How does one enter their house? From the street. Streets are collectively owned and through the nature of the resultant property ownership become locked into place.
+ 
+Second, streets are simply inherited assets. They are handed down from generation to generation. They are excellent receptors of investments made over time: one could start with a rutted-out dirt road, and then add some gravel, and then twenty years later add some asphalt, and twenty years later add some sidewalks, and then street lamps and street trees, and so on. As a public asset, they can be improved upon over many generations.
+ 
+It is because of these two reasons that streets have survived incredible catastrophes through history. For example, the Great Fire in London in 1666 completely destroyed the city. Christopher Wren, one of the greatest architects of all time, tried to take advantage of the situation, seeing it as an opportunity to introduce new avenues (in the same fashion as Rome at the time) to London's dense, cranky street network. But because of the legal ownership patterns, the city's urban form largely reemerged from the ashes as it was before the fire. There was an urgency to rebuild, and that urgency outweighed the complexities of reconfiguring property lines.
+ 
+In San Francisco in 1906, a catastrophic earthquake was followed by an even more catastrophic fire that ultimately leveled the entire city. The scenes of the destruction are striking, presenting a wasted landscape denuded of life. Similar to the case of London, Daniel Burnham (an influential American architect and planner) had spent the previous year before the earthquake reimagining the city's urban form. As a prelude to the 1909 Plan of Chicago, Burnham's plan for San Francisco had envisioned new avenues and thoroughfares, civic centers, and parks. Burnham delivered the plan to the city only a few days before the earthquake hit. And one would have thought the fire presented an incredible opportunity to implement the plan. However, similar to London, the grid of San Francisco resisted both fire and planner. San Francisco's urban form today is largely unaltered from its pre-1906 configuration.
+
+/San Francisco.png (Image of San Francisco taken from a hot air balloon soon after the fire in 1906.[^From the collection of the US Library of Congress.] Most of the buildings were destroyed, most of the people either perished or fled, but the streets and their associated boundary lines persisted.)
+
+
+#### Benefits
+What do streets do for a city? What do they do for us?
+
+In today's auto-oriented landscape, the most obvious thing streets do is connect people. Whether one lives in Atlanta, Agra, Paris, or Kuwait City, streets are the medium for getting around. They are driven on, biked on, and walked on. They get people and goods from point 'A' to point 'B'.
+ 
+But they require much more appreciation than this. Streets are not just for transportation. Just as importantly (if not more important), they provide access to property and they create frontage. When someone goes to Paris and marvels at the city's monuments and architecture, they are seeing Paris primarily through its streets. The face of Paris is made up of the buildings that front the street, it is how Paris presents itself to the world. The lesson here is that the more streets a city has, the more street frontage it has, which means more front doors, more front yards, and more storefronts. More streets means more opportunities to open up a city to development, to produce these vibrant neighborhoods common in the great cities of the world.
+ 
+Streets also help to subdivide land into developable and accessible units. There are some dimensions of streets that do this better than others. For example, take a block that happens to be 86 meters by 158 meters on a side. In Chicago, a block of that size accommodates condo buildings, and townhouses, and some bungalows. In Amsterdam, the exact same block accommodates townhouses and a palace. In Buenos Ares, the exact same block accommodates apartments and a market. That block could also be used to accommodate a grocery store and its parking. Or a Super Walmart. How can the exact same block accommodate all these things, all these different cultures, different languages, different building types, different land uses? This kind of flexibility is an amazing characteristic of good urban form, and it is one that is measurable and useable. As was already discussed earlier in the *Introduction*, the vast majority of what is built in the world—houses, shops, skyscrapers—are all based on the same dimensional DNA.
+ 
+Additionally, streets contain public utilities. As public spaces, this makes sense. David McCauley, author and illustrator, developed a wonderful book called *Underground* with beautiful drawings where he peels back the asphalt of New York streets to reveal what happens underneath. You would be amazed at what all we have shoved underneath our streets.
+ 
+Finally, streets are a city's largest public space. Portland, Oregon, for example, has small blocks, 60 meters on a side. With typical street widths of 18 meters, the percentage of land in Portland that is allocated over to streets is 40%. That's almost half, by the way.
+
+Over time and around the world, there have been numerous planners who have recognized the street's critical nature in cities. Edward Basset, one of the founding fathers of American planning and author of the 1916 Zoning Resolution in New York, said:
+
+> A civilized community needs streets for sewers, water supply, gas and electricity. This relates to the public health and comfort. It needs streets for water for fire protection and the movement of fire apparatus. This relates to public safety. It needs streets for foot and wheel traffic. This relates to all police power fundamentals.
+
+Frederick Law Olmsted, celebrated American landscape architect: 
+
+> The street plan has always been regarded as the foundation of all city planning.[^Address before the Second National Conference on City Planning, 1910.]
+
+Otto Wagner in Vienna, one of the greatest architects in history:
+
+> Streets and squares demand the greatest care and attention in the planning of a city. They need to be discussed first.[^From Wagner's book *Modern Architecture*, 1902.]
+
+And Doug Allen, one of the greatest visionaries in planning since Kevin Lynch:
+
+> Streets are the primary structural unit of the city.[^From Doug Allen's "The History of Urban Form," Lecture 01, delivered 2013.]
+
+We find ourselves today, however, in a situation where city planners have either forgotten, chosen to forget, or never had a chance to learn these insights. Because of this, many of the streets built since the middle of the 20th century were put in place specifically for the movement of traffic and excluded all the other important functions and qualities of streets just mentioned. It is no wonder, then, that the places that have been built around these one-dimensional, single-use "traffic sewers" are equally as one dimensional and single use. The character of the street directly affects the character of a place. We will explore the repercussions of this and provide a fuller history in a subsequent chapter titled *The Enabling Acts*, but for now we will focus on the most important planning device ever conceived, one that has been largely lost for 100 years but holds the key, we believe, to building cities that are more walkable, sustainable, and enjoyable: *the master street plan*.
+
+## Master Street Plans
+#### What is a Master Street Plan?
+A master street plan is a plat that depicts both current and, most importantly, *all future streets within an entire jurisdiction*. That is to be taken literally: within a jurisdiction, within an entire town or city, every single street that is ever going to be built is planned for at once. Think of it as a pre-approved subdivision plat; it is a drawing of a city's desired urban form. 
+
+This may sound far fetched, but history provides us with numerous examples of its successful use. One of the most famous and well-documented[^In 2012, the Museum of the City of New York held an exhibit titled "The Greatest Grid" which explored the history of the city's grid plan. A book of the same name contains numerous, well-written, insightful essays on the significance of the plan and is well worthy of study.] examples of a master street plan is the 1811 map of Manhattan. At that time, a group of Commissioners, seeing substantial growth looming in New York's future, sought to provide a physical framework for that growth, one that addressed not necessarily the "what" but the "where" of city planning. They didn't know what was coming, but they created a logical pattern of subdivision to give all the unknowns a place to go. Over the following decade after the street plan was adopted, the streets indicated on Manhattan's 1811 map were surveyed in the field. Large stone monuments were used to mark the corners of future blocks with the future right-of-ways offset from them. By physically surveying the streets, the plan was taken from paper into reality and could thus be protected from physical infringement (whether unintentional trespass or otherwise). A master street plan is no good unless it is on a plat that defines precisely where the boundary lines are going to be. 
+
+/Manhattan survey.png (Plat of 1811 Manhattan plan by the surveyor John Randell, Jr.)
+
+In the Commissioners' report that accompanied the plan, they projected it would be at least "a thousand years" before the plan was physically realized in its entirety.[^Remarks of the Commissioners for Laying out Streets and Roads in the City of New York, Under the Act of April 3, 1807] The actual streets of Manhattan, however, were largely built out over a single century. But consider the amount of change that Manhattan experienced over that time: exponential population growth, political regimes, building technologies, etc. As development occurred, as developers saw individual needs for housing and schools and shops, the streets were simply constructed per the plan, piece by piece. Remarkably, even with Manhattan's rapid and history-making changes, this adherence to the street plan lasted well into the 20th century culminating in its eventual and substantial completion.
+
+A master street plan is a simple line drawing, showing the boundary lines that indicate private property and public property. As we have seen, all of urban design can be reduced to a delineation between public and private property. A master street plan reflects this clearly and succinctly.
+
+A street indicated on a master street plan appears simply as two parallel lines which are separated by some scaled distance. A series of 18-meter wide rights-of-way may appear identical on a master street plan, but in reality they may take on dramatically different characters: one my be a rutted-out dirt road, while another my be paved with sidewalks and lined with skyscrapers. The boundary lines are indistinguishable in plan view; they are essentially the same street. But streets grow up differently under different circumstances even if they share the same dimensional DNA. Given enough people, enough building, enough time, and the right dimensions, a rutted-out dirt road can grow into an urban thoroughfare.
+
+We provide two analogies here that may help to further emphasize the utility of a master street plan:
+
+*A master street plan is like a jigsaw puzzle*: When you buy a puzzle it comes in a box, and on the cover of that box is a picture. That picture is your goal. It guides your placement of the pieces. So regardless of how long it takes you, regardless of how many people are involved, eventually you will reach your goal. And a master street plan operates in the exact same way. Regardless of whether it takes ten years, or a hundred years, or a thousand years, whether it takes ten developers or a thousand developers, as long as there is an established reference, the city will reach its desired urban form. Thus, a city without a master street plan is like a puzzle without a picture: there are no references for where the pieces should go. But unlike puzzle pieces, once the components of cities are placed they are incredibly hard to pick up and move if necessary, making master street plans all the more useful.
+
+*A master street plan is like a blueprint for a city*: In architecture, the construction drawings of a house reveal the locations of where each wall should be built. A builder adheres to the plan, constructing the walls where indicated. The result, after a while, is a house that reflects the original intention, the original plan. 
+
+It is a similar exercise for a city: a master street plan shows where each street should be built. Developers adhere to the plan, constructing new streets where indicated. The result, after years or decades, is a city that reflects the original intention, the original plan.
+
+The building of a house is not left to mere chance, and neither should be a city. The application of a master street plan is the most direct way to achieve a desired urban form and thus ensure that a certain level of walkability, adaptability, efficiency, and economy are built in. 
+
+While a house is built at once, that does not mean it cannot change: rooms can be painted various colors, pictures can be hung from the walls, inhabitants can move in and move out, even additions and renovations are an option. It is similar with a city. Even though a physical street plan becomes locked into place, all the life that happens within that framework of streets is allowed to change and adapt as it naturally needs to. Streets are there only to provide structure, not content.
+
+#### Planning in the Right Order: Subdivision and Zoning
+City planning is a complex process, especially in our modern times. However, it can largely be reduced into two primary domains: zoning (the regulation of private property) and subdivision (the order of public property). These two domains compete for attention, but over the last century zoning has come to dominate the process.[^Knack, Ruth and Israel Stollman. “The Real Story Behind the Standard Planning and Zoning Acts of the 1920s,” _Land Use Law_ (February 1996).] We will show here how putting zoning first is detrimental to the more permanent and important patterns of subdivision.
+
+Any many jurisdictions around the world today, zoning is the first step in the land development process: residential here, commercial there, and office over there. This is promoted as the most important determinant in advancing health, safety, and welfare and in protecting the public interest because of the power it has in separating *incompatible uses.* The concept of keeping incompatible uses started off in a logical manner—*do not build houses next to a coal-burning factory*—but over time the definition has become broadly applied to almost anything (e.g., keeping multi-family units away from single-family units). [^For more on this history, refer to works by Ruth Knack, Michael Wolf, Jane Jacobs, and Andres Duany in the bibliography.]
+
+Only after the land uses have determined is subdivision taken into account, and this is only done on a parcel by parcel basis. What happens in this way, however, is that the subdivision patterns produce a street network that has no additional connectivity because the patterns are bounded by each individual parcel under consideration (i.e., there is no plan present that says *leave a street stub out here on your property for a future connection across another property*). Zoning, by definition, is a private matter.[^See the first sentence of the first page in *A Zoning Primer* written in 1926 as a guide to the Standard State Zoning Enabling Act written in 1922.] To limit the planning of streets (which is by definition a public matter) to the confines of private parcels is one of the greatest errors—if not the greatest error—of our modern planning process. As new development occurs, it latches on to the existing street network. 
+
+When zoning occurs first and subdivision is determined on a parcel-by-parcel basis, the inevitable result is an unwalkable, unsustainable urban form, one that minimizes connectivity, minimizes street frontage, minimizes opportunities for vitality, minimizes the ease for redevelopment, and minimizes public space. The poster child of this urban form is the cul-de-sac. Cul-de-sacs are great at accommodating quiet, single-family detached houses, but that's it. By design, they are largely incompatible with other uses. This has been the dominant urban form in post-WWII America. Unfortunately, it coincided with a boom in population, production, and development, ultimately surrounding our cities with first, second, and third ring suburbs. When more development and people occupy a network of this type, that means the density of cars goes up, which worsens traffic problems. The only solution in this context then is to expand the capacity of each individual road by adding lanes, which spurs more development and more cars.[^This concept is known as *induced demand*. See works by Andres Duany and Jeff Speck in the bibliography.]
+ 
+But there is an alternative to this approach: putting streets first and land uses second. A master street plan is the first thing to consider in a streets-first process. In this way, as development occurs it is known that the resultant street network has built-in connectivity, built-in walkability, and built-in adaptability, so that in the future when things change (recall from the Introduction that things will change as much as you may not want them to) that change is readily absorbed and accommodated in a proven pattern of urban form. Zoning can adjust as it needs to on top of the street plan. People can move in or move out, buildings can shift around, and the street plan can be the constant background for that development. And it all works because the streets, blocks, and lots are a function of a time-tested dimensional DNA. 
+
+#### The Benefits of a Master Street Plan
+There are many benefits to incorporating a master street plan into the planning process, including:
+
+1. **Frees up municipal resources**: As a pre-approved subdivision plat, a master street plan streamlines the review process. This allows planning authorities to focus on other critical issues, like affordability and housing. Without a master street plan, every development must be reviewed as new, unnecessarily waisting time and soaking up resources. However, if the jurisdiction's subdivision plan is completed all at once, then as long as a developer conforms to the plan the review time is minimal. If the developer wishes to deviate from the plan, they can do so, but they have to submit a variance.
+ 
+2. **Saves developers and home buyers time and money**: As a pre-approved subdivision plat, developers can get their projects completed more quickly and at reduced cost, with the efficiencies and savings trickling down to the home buyers.
+ 
+3. **Prescriptive, not postscriptive**: Rather than relying on after-the-fact tactics, once the harm has already been done, or ineffectual connectivity metrics, or parcel-by-parcel subdivision reviews, a master street plan ensures that a desired urban form will materialize.
+ 
+4. **Guides incremental development**: While a master street plan is established up front, its execution occurs over decades and centuries. As the city grows, a master street plan is there to guide that growth.
+
+## Designing a Master Street Plan
+
+It has been shown that streets provide important functions beyond those of mere transportational purposes and that they are the longest-lasting elements of a city's infrastructure. Now the question is how does one actually design a master street plan? The best way to determine that is to look at precedent: to look at the best examples of town planning the world has to offer. There are many sources one can to turn to to assemble this list of precedent, but for this paper we are focusing on those neighborhoods selected by the American Planning Association as the most walkable, sustainable, and enjoyable.[^Refer to https://www.planning.org/greatplaces/ for more information on the criteria of selection]
+
+The following is a partial list of precedent used for analysis in this paper which includes many of the neighborhoods designated by the APA as "great places" as well as other cities from around the world to broaden the scope of research: Amsterdam, Aosta, Ashland, Austin, Baltimore, Banff, Bangkok, Barcelona, Beaufort, Beckley City, Boise, Boston, Brunswick, Buenos Aires, Cacalchen, Cairo, Cape Town, Charleston, Cincinnati, Durango, Evanston, Forest Hills, Franklin, Frederick, Grand Rapids, Hattiesburg, Innsbruck, Istanbul, Key West, Kuwait City, Lafayette, Madison, Marfa, Mason City, Miletus, Mones Cazon, Montgomery, Nantucket, New Delhi, New Orleans, New York, Oak Park, Owatonna, Paragonah, Paris, Providence, Riverside, Savannah, Siloam Springs, Spokane, St. Augustine, Staunton, Vienna, and Walla Walla.
+
+### Analyzing precedent
+
+These precedents have all the characteristics of great places: they possess some combination of walkability, sustainability, enjoyability, beauty, and vibrancy. By carefully analyzing their urban forms—their streets, lots, and blocks—we can learn what urban forms yield the best urbanism. By measuring block sizes and their geometries, right-of-way widths and their networks, we can determine the ideal structure of the best cities in the world. While the precedents mentioned here represent the spectrum of urbanism—from small towns to large cities, from East to West—they possess uncanny similarities in their mutual urban forms. Our research, which we share below, reveals a universal law of urbanism, a common dimensional DNA, that results in their successes. That universal law is presented below in four major rules: block size, block geometry, right-of-way width, and alleys. These rules can be applied to small developments, entire neighborhoods, or whole cities.
+
+The method of data collection was a simple, mechanical process: using tax maps, GIS, and aerial photographs, urban forms were measured and recorded into a spreadsheet. The data recorded include the short and long block side lengths, block perimeter, block area, block geometry, right-of-way width, and alley width. The four rules presented below are the result of elementary statistical analyses of this data collection.
+
+### The Dimensions of Good Urban Form
+
+#### Rule #1: Block Size
+
+> Blocks should have sides greater than 10 hexameters (60 meters) and less than 30 hexameters (180 meters), with the perimeter less than 100 hexameters (600 meters). 
+
+/block dimensions.png
+
+Perhaps 80% of good urban form is embedded in this one rule; no other metric is as powerful as this one. Many of the desired aspects of urbanism, including walkability, adequate street frontage, and adaptable land subdivision, are a distinct function of block size. If one were to implement only one rule, this would be it.
+
+The image below compares the median-sized blocks of various neighborhoods. At first glance, some of the blocks are a little more angular than others, some have alleys while some don't, but overall they are remarkably similar. They are all relatively the same size, relatively the same shape. Notably, in some cases they are indistinguishable: for example, the Garden District of New Orleans and downtown Madison, Wisconsin, utilize essentially the same block. And Charleston and Vienna are barely distinguishable from one another. A worldwide pattern is already evident here. 
+
+/Block figure ground.png (A visual comparison of median-sized blocks in various neighborhoods on a 200-foot grid.)
+
+Now let's compare these blocks in another way. We can reduce median block sizes to a point on a number field (refer to the image below), with the average short block side for each neighborhood falling along the x-axis and the average long block side falling along the y-axis. If block size was random or did not factor in determining great cities, we would expect to see these points dispersed haphazardly across the number field, but interestingly they huddle together in one relatively tight area. This is not an outcome of the universe telling us how big a block should be; instead, it is a product of millions of decisions made by people and planners over the centuries, fine-tuning the dimensions of urban form. The consensus is astonishing.
+
+/Block graph.png (Block sizes of various neighborhoods compared.)[^Note this study was done using imperial units. Metric conversion will following in subsequent revisions.]
+
+Jane Jacobs, the venerable New York journalist and observant urbanist, stated in her famous book *The Death and Life of Great American Cities*:
+
+> “Frequent streets and short blocks are valuable because of the fabric of intricate cross-use that they permit among the user of a city neighborhood. Frequent streets are not an end in themselves. They are a means toward an end… Frequent streets are effective in helping to generate diversity only because of the way they perform. The means by which they work (attracting mixtures of users along them) and the results they can help accomplish (the growth of diversity) are inextricably related. The relationship is reciprocal.”
+
+Our analysis above reveals the numbers behind Jacobs's observations. Our study of great places shows that on average their blocks fall somewhere between 60 meters and 180 meters. As one additional constraint, their perimeters are bounded by about 600 meters (e.g., a square block 180 meters on each side has a perimeter of 720 meters which falls outside the range). What is incredible about this is that our study incorporates places not only all over the world but places that were built at various times, tens, hundreds, or even thousands of years ago. Yet the data show us that the range we are talking about isn't 60-6,000 meters, or 60-600 meters, but a tight 60-180 meters.
+
+If we break it down between each side of a block the variances get even tighter. The figure above also tells us something about block orientation. The average short side range is only 200 feet to 400 feet; the average long side range is 300 feet to 700 feet. The reason or this is that typically the short side is a function of a lot's depth. Because blocks are typically composed of two lot tiers and because lot depths typically fall in the 100 ft to 200 ft range, this narrows the overall range of block width. Block length, however, is a function of lot width and can change simply by appending more lots side by side. In this case, the block length can easily expand without sacrificing lot efficiency. This is why block length falls within a higher range.
+
+It is a common misconception to assume that small blocks imply high population density and big blocks imply low population density.[^This likely stems from the fact that many cities built at the turn of the century incorporated small blocks, and over time development has naturally been concentrated there of decades or centuries.] As it turns out, block size has little relationship if any to population. In the analysis shown below, the populations span a wide spectrum, ranging from 488 people in Paragonah, Utah, to 2.2 million people in Paris, France. However, amongst all the cities shown, their block sizes are in an incredibly tight range, with a relative standard deviation[^Recall from your statistic class that relative standard deviation is a standard deviation normalized about the mean. In other words, it is a measure of variance that allows you to compare completely different things: in this case, population and block size.] of only 28%. Essentially, what is being reflected here is a universal urban form: all these cities represent the spectrum of everything ever built on the planet, and yet they're all operating within the same relative block size.
+
+/Block population.png (Comparing block size to city population.)
+
+Finally, we can see how differently a 120-meter square block can be used (refer to the image below). While all the blocks represented are the same size and shape, they have each come to accommodate an incredible range of land uses. One is a farming block in Arizona, the other a small town in Utah, and the other the thriving downtown of Chicago. Same block, different use.
+
+/Block 400 compare.png (The same 120-meter block utilized differently in three different cities.)
+
+This discussion of block size also leads to one on lot size. The dimensional adaptability of blocks continues down to the dimensional adaptability of lots. For example, a standard 18-meter by 36-meter lot is a surprisingly versatile unit of land. That lot could accommodate everything from a house to a parking lot to a skyscraper. While the heights and land use intensities vary, the critical point is that all these uses essentially occupy the same foot print. In plan view, a house with a yard can take up just as much space as a 40-story skyscraper.
+
+/Lot width.png
+
+A lot width of 12 meters (2 hexameters) is an ideal dimension because 1) it can accommodate these varied uses and 2) because of its mathematical fungibility.[^Refer back to the discussion of number theory in the introduction.] Furthermore, lots work best when the narrow side faces the right-of-way. Some reasons for this include:
+
+1. It is more economical for a lot owner to own a smaller portion of street a right-of-way than otherwise.
+2. Smaller frontage units allow more lot owners to face the street per unit length which translates into more opportunities for a vibrant mix and proximity of land uses.
+3. Smaller frontages also allow for more access points (shop fronts, front doors, etc) which further contributes to vitality.
+4. Building layouts tend to favor elongated rectangles over squares for various reasons including the limits of natural light and the proportions of individual rooms (not every room in a house or office needs to be a square).
+
+Let's now leave the discussion of small blocks and consider what happens when blocks are too big. In Salt Lake City, Utah, the blocks are 201 meters (660 ft) on a side with a perimeter of 804 meters (2,640 ft). This clearly does not pass our *Rule #1*. This block depth implies a lot depth of 100 meters. As we have just seen with the discussion about lot size, there are very few things that we build in this world that require a 100-meter lot depth. Because of that, in Salt Lake City what has happened over time is that property owners along the edge have sold the back half of their lots. This has resulted in an inner block of development inside an outer block. But this interior development does not benefit from the exposure that a street provides; consequently, they do not contribute to the vitality of Salt Lake City's streets.
+
+/Salt Lake block.png (A block in Salt Lake City, Utah.[^Aerial photograph by Google Earth. Diagram by the author.] Dotted line indicates area of internal development.)
+
+The diagram below further illustrates the absurdity of Salt Lake City's block size.
+
+/Salt Lake Absurdity.png (A single Salt Lake City block can harbor many famous buildings and monuments of the world.[^Diagram by the author.])
+
+Recall that a block is defined as an area of private property surrounded on all sides by public rights-of-way. Let's apply that definition to the blocks of Alpharetta in suburban Atlanta, Georgia. The urban form of Alpharetta possesses innumerable cul-de-sacs, and by definition cul-de-sacs do not connect through, they stop and avoid connection. This results in block sizes of enormous scale which looks all the more ridiculous even when compared to the over-sized blocks of Salt Lake City (see image below). Given the weight that block sizes have in urbanism and based on these observations alone, it is safe to say that Alpharetta will never possess the qualities of a walkable, vibrant, mixed use community; it simply does not have the urban form to support it.
+
+/Alpharetta block.png (Comparing an over-sized block of Salt Lake City to the enormity of a block in Alpharetta, Georgia.[^Diagram by the author.])
+
+#### Rule #2: Block Geometry
+
+> Blocks should be composed of straight line segments with preference given to rectangles; a long side to short side ratio of 1.5:1 or greater is also preferred. 
+
+In our study, we found the majority of blocks were straight-sided and rectangular. Why? Consider first that rectangles are everywhere. They're in our buildings, bedrooms, TVs, doorways, drawers, chairs, books, papers, iPhones, parking spaces, shipping boxes, agricultural fields, computers,  briefcases, CCDs, and rugs. Rectangles are fairly useful forms for us. The commissioners of Manhattan in 1811 recognized as much saying that "straight-sided and right-angled houses are the most cheap to build and the most convenient to live in."[^Remarks of the Commissioners for Laying out Streets and Roads in the City of New York, Under the Act of April 3, 1807] That statement is as true and relevant today as it was then or as it was 2,000 years ago.
+ 
+Secondly, we can consider the relative yields of different block geometries (rectangles, irregular angles, triangles, and ovals). We isolated the variable of geometry by holding the area of the blocks constant. We tested the resultant blocks against three different land uses: residential, commercial and parking. We attempted to keep the physical parameters of each land use the same across all he blocks. The results are shown in the table below.
+
+/Geometry yield.png (Comparison of the efficiencies of blocks of similar size but varying geometries.)
+
+In terms of houses, the rectangular block can accommodate 16 standard house lots, the irregular block can accommodate 15, the triangular can accommodate 14, and the oval can only accommodate 12. The decline in efficiency is easily seen and it continues across all land uses (see the graph below). The further one gets away from the rectangle, the less efficient the block becomes. The reason for this is purely geometrical: there is a "flat packing" efficiency created given all the rectangles we have in our lives. These objects (buildings, beds, books, etc) perfectly pack into corners, leaving no waste of land area. Only few buildings in this world are truly curved: most are actually *faceted*, meaning they are made up of rectangular building materials (bricks, beams, plywood) that are turned at each juncture along a curve at some desired tolerance.
+
+/Geometry yield graph.png (A visual display of the loss in efficiency as blocks become less and less rectangular in form.)
+
+#### Rule #3: Rights-of-way
+
+> Most rights-of-way should have a width between 2 hexameters (12 meters) and 4 hexameters (24 meters); a limited number of rights-of-way may be larger or smaller. 
+
+The table below[^Note that this particular analysis was done using imperial units. This will be adapted to metric in future updates to this paper.] shows the distribution of rights-of-way of varying widths across our sample of precedents. The dots represent individual rights of way, the bars represent the total numbers, and the gray shaded areas represent the standard deviation about the mean. By comparing the total frequency of rights-of-way across these varied great places, it is evident that the majority fall between 12 meters (about 40 feet) and 24 meters (about 80 feet), with many residing around 18 meters (about 60 feet).
+
+/ROW compare.png (Counting the widths of rights-of-way in various cities to determine overall width frequencies.)
+
+An 18-meter right-of-way is incredibly versatile. It can be a deserted country road, a suburban street, or a major urban thoroughfare.
+
+/ROW iowa.png (A dirt road in Iowa, 18 meters wide.[^Photograph by the author.])
+
+/ROW providence.png (A suburban street in Providence, Rhode Island, 18 meters wide.[^Photograph by the author.])
+
+/ROW ny.png (An urban street in New York, New York, 18 meters wide.[^Photograph by the author.])
+
+#### Rule #4: Alleys
+
+> Alleys should be between 1/2- to 1-hexameter (3-6 meters) in width and be present in most, if not all, blocks. 
+
+Alleys are the unsung heroes of good urbanism. They increase connectivity, access, efficiency, sanitation, light, and air. Take, for example, Commonwealth Avenue in Boston, Massachusetts, one of the most beautiful streets in the world. It is essentially a 100-foot linear park flanked on either side by streets, sidewalks, setbacks, and townhouses. Such a beautiful, manicured scene is only possible because of the alleys dividing the blocks. Alleys are the ideal locations for housing the necessary unpleasantries of modern urban life including power lines, parking spaces, dumpsters, water meters, and fire escapes. 
+
+Without alleys, all these objects would need to occupy the front of the lots, interfering with the very face of the city and causing not only aesthetic harm but functional drawbacks. 
+
+/alley compare 1.png (With no alleys present, many undesirable objects must occupy the front of lots.)
+
+/alley compare 2.png (With alleys present, many undesirable objects can occupy the back of lots.)
+
+Alleys also provide additional access. Without alleys, all access (including curb cuts) must occur at the front of the lot. With alleys, access can occur in the back of the lot, freeing the front of the lot for broader porches or wider storefronts. Additionally, these consolidated access points for vehicular traffic make for a more walkable urbanism as there are fewer curb cuts (i.e., conflict points) with pedestrians.
+
+Manhattan provides a good lesson of what happens when alleys are not incorporated into the urban form of a city. As the image below shows, trash pick up is forced to occur on the sidewalk which is not an ideal experience anyone: worker, resident, or tourist.
+
+/no alley manhattan.png (Because of the lack of alleys in Manhattan, trash collection must occur on the main sidewalks and streets.[^Photograph by the author.])
+
+*Note by the author, November 12, 2018: Consider whether alleys should be a "rule" or a "suggestion". The data do not back this up necessarily as alleys are not ubiquitous across the study areas. As there are further discussions that need to be added to this paper (street network, parks, etc), this discussion on alleys could be moved there, leaving three rules and, say, seven "considerations."*
+
+## End Master Street Plans
+The rules presented here are based on a simple and direct analysis of precedent. Dimensions do not lie. By measuring cities, past and present, their design lessons can be learned and utilized for new developments. For countries and cities to compete in the global marketplace, to meet the demands of its citizens, to live up to its aspirations, and to provide all the necessary components of life, they must build the most beautiful, efficient, and enjoyable public house (city) for its people possible. They must become an exporter of good urban principles. This begins at the level of the street plan. Just as every house needs a plan, every city needs a master street plan.
+
+The legal aspects and enabling statutes necessary to implement master street plans will be addressed in the next chapter.[^The chapters on Enabling Statutes and Model Subdivision Regulations are forthcoming.] An example subdivision code and example application of the entire system of subdivision so far presented—from the National Ordinance down to individual master street plans—will be covered in the subsequent chapter where we will see how the utilization of the hexameter unit maximizes the efficient and sustainable use of the land while providing for a proven dimensional framework of good urban form.
